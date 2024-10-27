@@ -1,0 +1,2 @@
+Distributed Dynamic Inertia-droop control strategy based on deep reinforcement learning
+本文件夹是各种模型最终版测试合集
